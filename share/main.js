@@ -16,7 +16,7 @@ function runQueue(queue, fn, end) {
 }
 
 
-var uids = [430040, 430041, 430042, 430043, 430044, 430045]
+var uids = [430040, 626545]
 
 var iframe = document.getElementById('iframe')
 var message = document.getElementById('message')
