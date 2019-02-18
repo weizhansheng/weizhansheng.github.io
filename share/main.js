@@ -20,7 +20,7 @@ function getUrl(uid) {
 }
 
 
-var uids = [430040, 626545]
+var uids = [430040, 526545]
 
 // var iframe = document.getElementById('iframe')
 var message = document.getElementById('message')
